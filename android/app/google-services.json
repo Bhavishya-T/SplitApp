@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55416166534",
+    "firebase_url": "https://splitapp-30e86-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "splitapp-30e86",
+    "storage_bucket": "splitapp-30e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55416166534:android:349e6a24f95ff97defd907",
+        "android_client_info": {
+          "package_name": "com.example.splitting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55416166534-c7vp6mjcips109o54pkin0lfso5mt3lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGwArc7oWOX1mnEe2Vx_YbAueRjaKqno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55416166534-c7vp6mjcips109o54pkin0lfso5mt3lh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55416166534-f7qievcsel92ujd6k9mjkpshoq0h7k6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.splittingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
